@@ -137,17 +137,3 @@ If you find our work useful for your research, please consider citing our paper:
       url={https://arxiv.org/abs/2609.33297},
 }
 ```
-
-The Graph of Verification baseline is based on:
-
-```bibtex
-@misc{fang2025graphverificationstructuredverification,
-      title={Graph of Verification: Structured Verification of LLM Reasoning with Directed Acyclic Graphs}, 
-      author={Jiwei Fang and Bin Zhang and Changwei Wang and Jin Wan and Zhiwei Xu},
-      year={2025},
-      eprint={2506.12509},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2506.12509}, 
-}
-```
